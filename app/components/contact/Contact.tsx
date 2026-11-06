@@ -18,7 +18,7 @@ const FORM_URL = "https://formspree.io/f/mjyyllpn";
 // Social links
 const SOCIALS = {
   github: "https://github.com/mdnazishpatel",
-  linkedin: "www.linkedin.com/in/nazish-ali-8a71272a0",
+  linkedin: "https://www.linkedin.com/in/nazish-ali-8a71272a0",
   x: "https://x.com/NazishPatel7?s=09",
 };
 
