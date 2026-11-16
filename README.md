@@ -140,7 +140,7 @@ Or push to GitHub and import the repo on [Vercel](https://vercel.com/new). Every
 
 ---
 
-## 🔧 MODIFY THE SUIT
+## 🔧 MODIFY THE SUIT FOR YOURSELF.
 
 - 🖼️ **Portrait:** swap `public/my.jpeg`
 - 📡 **Contact form:** set your Formspree ID, email and social links in `Contact.tsx`
